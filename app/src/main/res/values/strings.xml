@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWhatsApp</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="your_name">user name</string>
+    <string name="click_to_signup">click to signup</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">sign in</string>
+</resources>
